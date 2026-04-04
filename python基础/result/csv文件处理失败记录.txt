@@ -1,0 +1,5 @@
+./csvfiles\1+X证书制度下汽车检测与...修技术专业人才培养方案研究_邱官升.csv, list index out of range
+./csvfiles\TAFE视域下高职院校岗位实习考核评价体系构建_刘立云.csv, invalid literal for int() with base 10: 'ab'
+./csvfiles\《汽车电器》课程教学分析与实践_谢达城.csv, list index out of range
+./csvfiles\产教融合__共建共创__共享共赢_翟文胜.csv, list index out of range
+./csvfiles\产教融合背景下汽修专业校企合作现状_马延.csv, list index out of range

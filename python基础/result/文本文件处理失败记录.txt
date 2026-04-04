@@ -1,0 +1,12 @@
+文件：  1+X数字创意建模职业证书人才培养教学改革_周陈星.txt  报错
+, 错误是： 'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte 
+文件：  安徽省高等职业教育与经济发...于Matlab灰色关联分析_施春红.txt  报错
+, 错误是： 'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte 
+文件：  服务高水平专业群建设的图书...资源保障体系及服务方式探索_文锋.txt  报错
+, 错误是： 'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte 
+文件：  这是一个例外.txt  报错
+, 错误是： 'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte 
+文件：  高职人才供给与区域经济稳步...略研究——以长三角地区为例_闵瑞.txt  报错
+, 错误是： 'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte 
+文件：  高职院校“政校企一体化”协...——以池州职业技术学院为例_汪芳琳.txt  报错
+, 错误是： 'utf-8' codec can't decode byte 0xb5 in position 0: invalid start byte 
